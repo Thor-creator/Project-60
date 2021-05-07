@@ -15,7 +15,7 @@ font-family: 'Architects Daughter', cursive;
 }
 #image{
   height: 50%;
-  width: 50%; 
+  width: 30%; 
 }
 #like{
 font-size:30px;
@@ -82,4 +82,41 @@ a{
 }
 #aboutme{
     font-family: 'Itim', cursive;
+    font-size: 75px;
+    color:chocolate
+}
+#about{
+    margin-top: 60px;
+    background-color:aquamarine
+}
+#hi{
+    font-size: 40px
+}
+#myimage{
+    width: 500px
+}
+#lewishamilton{
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+#lewishamilton:hover{
+    transform:scale(0.9);
+}
+#inspiration{
+background-color:cadetblue
+}
+#lewis{
+ font-size: 60px;
+    font-family:monospace;
+    color: mediumaquamarine
+}
+#myinspiration{
+    font-size: 75px;
+    font-family: fantasy;
+    color: aliceblue
+}
+#hamilton{
+    font-size: 40px;
+    font-family:sans-serif;
+    color: chartreuse
 }
